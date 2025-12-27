@@ -30,7 +30,7 @@ pip3 install spotipy requests pillow
 
 3. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/coverspot/main/coverspot.py
+wget https://raw.githubusercontent.com/andreacampanella/coverspot/main/coverspot.py
 ```
 
 ## Spotify Setup
