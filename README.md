@@ -2,6 +2,12 @@
 
 A simple Raspberry Pi application that displays the album art of your currently playing Spotify track in fullscreen.
 
+<p align="center">
+  <img src="screenshot/CoverSpot.jpg" alt="CoverSpot demo" width="600">
+  <br>
+  <em>CoverSpot displaying album art on a Raspberry Pi</em>
+</p>
+
 ## Requirements
 
 - Raspberry Pi with a display (or any Linux machine)
